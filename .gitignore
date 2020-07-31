@@ -1,0 +1,5 @@
+03_DataSourceFiles/
+*.csv
+.virtual_documents/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
